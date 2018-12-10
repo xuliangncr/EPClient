@@ -94,11 +94,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Bitbucket.Net\Bitbucket.Net.csproj">
-      <Project>{4cd14505-f425-4032-8387-21d7d7769a61}</Project>
-      <Name>Bitbucket.Net</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
