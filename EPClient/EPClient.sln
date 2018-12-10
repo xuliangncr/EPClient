@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPClient", "EPClient\EPClient.csproj", "{A34ACBA8-8FBB-446D-8B8C-910162E76B13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlassianBitbucketApi", "AtlassianBitbucketApi\AtlassianBitbucketApi.csproj", "{24284E6C-7BF8-4F32-9333-DB790FB1916A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitbucket.Net", "Bitbucket.Net\Bitbucket.Net.csproj", "{4CD14505-F425-4032-8387-21D7D7769A61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A34ACBA8-8FBB-446D-8B8C-910162E76B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A34ACBA8-8FBB-446D-8B8C-910162E76B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A34ACBA8-8FBB-446D-8B8C-910162E76B13}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24284E6C-7BF8-4F32-9333-DB790FB1916A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24284E6C-7BF8-4F32-9333-DB790FB1916A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24284E6C-7BF8-4F32-9333-DB790FB1916A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24284E6C-7BF8-4F32-9333-DB790FB1916A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD14505-F425-4032-8387-21D7D7769A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD14505-F425-4032-8387-21D7D7769A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD14505-F425-4032-8387-21D7D7769A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD14505-F425-4032-8387-21D7D7769A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

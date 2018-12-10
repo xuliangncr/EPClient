@@ -95,9 +95,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AtlassianBitbucketApi\AtlassianBitbucketApi.csproj">
-      <Project>{24284e6c-7bf8-4f32-9333-db790fb1916a}</Project>
-      <Name>AtlassianBitbucketApi</Name>
+    <ProjectReference Include="..\Bitbucket.Net\Bitbucket.Net.csproj">
+      <Project>{4cd14505-f425-4032-8387-21d7d7769a61}</Project>
+      <Name>Bitbucket.Net</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
